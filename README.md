@@ -139,6 +139,20 @@
 
 
 
+<div align="center">
+
+
+## image samples
+
+
+
+<img src="./apps pic/portofolio1.PNG" alt="logo" width="70%"  height="auto" />
+<img src="./apps pic/portofolio2.PNG" alt="logo" width="70%"  height="auto" />
+<img src="./apps pic/portofolio32.PNG" alt="logo" width="70%"  height="auto" />
+
+</div>
+
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -205,14 +219,6 @@ You can deploy this project using:
 👤 **Author1**
 
 - GitHub: [@ijosue16](https://github.com/ijosue16)
-
-
-👤 Author2  [This was my partner but he left the program as explained in the pull request using the image of the email i was sent]
-
-- GitHub: [@LethaboMot](https://github.com/LethaboMot)
-
-![Screenshot 2022-11-25 095129](https://user-images.githubusercontent.com/111968510/203930807-ce5c3e73-7a26-4d4e-8ee1-f7d032d5aba0.png)
-
 
 
 
@@ -290,6 +296,6 @@ I would like to thank...
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
